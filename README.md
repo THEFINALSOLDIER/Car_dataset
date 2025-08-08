@@ -15,6 +15,21 @@ This is an detailed revenue report of the illustrious DAVE & DANN CAR COMPANY
 ```sql
 
 ```
+```sql
+
+```
+```sql
+
+```
+```sql
+
+```
+```sql
+
+```
+```sql
+
+```
 
 ### PowerBI visualization
 [Click here to view](https://ibb.co/1Cf12VD)
